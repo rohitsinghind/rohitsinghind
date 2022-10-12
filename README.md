@@ -1,4 +1,4 @@
-![MasterHead](https://assets.website-files.com/5fda1c8bbc942d57d8dae4d5/60dc47db2b30f8e8d0d19186_legacy%20code.png)
+
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/ab/68/e6/ab68e6d38452d78ac98687865281c5c8.gif" alt="Coding" />
