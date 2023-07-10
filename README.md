@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rohitsinghind22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QKci-gZSrK6cOp07scSUlYE9qHUDfWgs/view](https://drive.google.com/file/d/1QKci-gZSrK6cOp07scSUlYE9qHUDfWgs/view)
+- 📄 Know about my experiences [view](https://drive.google.com/file/d/1TutWpVXm8kWueBp6WhiRd-G2n1tDkpHN/view?usp=sharing)
 
 - ⚡ Fun fact **high-quality work by their respective deadlines**
 
